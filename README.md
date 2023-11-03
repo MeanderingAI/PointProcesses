@@ -8,7 +8,7 @@ strict typing to prevent bugs
  A multivariate Hawkes process with non-variable base measure.
 
 ```
-python setup.py install
+pip install .
 ```
 
 # Data Store
