@@ -51,5 +51,11 @@ hp.gradient_ascent_full(trajectory, eta=0.1)
 
 sampled_trajectory = hp.sample(max_time=7.)
 ```
-Learning from real data can be accomplished 
-simply. I wouldn't use this in production, email me if you wish to utilize these techniques.
+Learning from real data can be accomplished simply. I wouldn't use this in production, email me if you wish to utilize these techniques.
+
+
+
+# Next on the list
+
+I was hoping to have a python implementation of PCIM, just to get some nice plots. 
+
